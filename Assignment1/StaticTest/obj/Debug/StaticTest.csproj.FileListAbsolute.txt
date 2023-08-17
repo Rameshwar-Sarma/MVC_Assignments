@@ -1,0 +1,12 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\bin\Debug\StaticTest.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\bin\Debug\StaticTest.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\bin\Debug\StaticTest.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\bin\Debug\Solution1.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\bin\Debug\Solution1.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\bin\Debug\Solution1.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\obj\Debug\StaticTest.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\obj\Debug\StaticTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\obj\Debug\StaticTest.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\obj\Debug\StaticTest.csproj.CopyComplete
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\obj\Debug\StaticTest.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\Assignment1\StaticTest\obj\Debug\StaticTest.pdb
