@@ -1,20 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Solution1;
 
-namespace StaticTest
+namespace AdminValidation
 {
+    /// <summary>
+    /// College admin validation the initial assignment of a branch CSE
+    /// </summary>
     internal class Program
     {
+        /// <summary>
+        /// Main Method starts here
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Console.WriteLine(Solution1.Program.var1);
-            Console.WriteLine(Solution1.Program.str1);
-            Solution1.Program.var1 = 95;
-            Solution1.Program.str1 = "I Love Chess";
+            // College Admin Checking the initial Assignemnt of CSE Students
+            Console.WriteLine(CSEAssignemnts.Program.noOfStudents);
+            Console.WriteLine(CSEAssignemnts.Program.AssignmentName);
+
             Console.ReadLine();
         }
     }

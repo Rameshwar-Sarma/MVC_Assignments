@@ -1,26 +1,34 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Solution1
+namespace CSEAssignemnts
 {
+    /// <summary>
+    /// The Assignment and number od students are declared here
+    /// </summary>
     public class Program
     {
-        public static int var1 = 10;
-        public static String str1 = "C# .Net" ;
+        // static variables declaration
+        public static int noOfStudents = 10;
+        public static String AssignmentName = "The World of C#" ;
+
+        /// <summary>
+        /// Main method starts here
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
-            var1 = 25;
-            str1 = "Welcome";
-            Console.WriteLine("var1 before calling scope method = " + var1);
-            Console.WriteLine("str1 before calling scope method = " + str1);
-            StaticScope scope = new StaticScope();
-            scope.method1();
-            Console.WriteLine("var1 after calling scope method = " + var1);
-            Console.WriteLine("str1 after calling scope method = " + str1);
+            Console.WriteLine("Name of the Assignment= " + AssignmentName);
+            Console.WriteLine("noOfStudents submitted Assignments = " + noOfStudents);
+           
+            // Creating a new Assignment using NewAssignment class
+            NewAssignment assignment = new NewAssignment();
+
+            //Chaning the Assignment topic
+            assignment.ChangeTopic();
+
+            Console.WriteLine("Name of the Changed Assignemnt = " + AssignmentName);
+            Console.WriteLine("noOfStudents Submitted new Assignment = " + noOfStudents);
+            
             Console.ReadLine();
         }
 
