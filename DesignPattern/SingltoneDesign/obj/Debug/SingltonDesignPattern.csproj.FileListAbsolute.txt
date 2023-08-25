@@ -1,0 +1,8 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\DesignPattern\SingltoneDesign\bin\Debug\SingltoneDesign.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\DesignPattern\SingltoneDesign\bin\Debug\SingltoneDesign.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\DesignPattern\SingltoneDesign\bin\Debug\SingltoneDesign.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\DesignPattern\SingltoneDesign\obj\Debug\SingltonDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\DesignPattern\SingltoneDesign\obj\Debug\SingltonDesignPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\DesignPattern\SingltoneDesign\obj\Debug\SingltonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\DesignPattern\SingltoneDesign\obj\Debug\SingltoneDesign.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\DesignPattern\SingltoneDesign\obj\Debug\SingltoneDesign.pdb
