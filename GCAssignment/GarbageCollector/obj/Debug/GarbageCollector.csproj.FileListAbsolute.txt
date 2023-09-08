@@ -1,0 +1,7 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\GCAssignment\GarbageCollector\bin\Debug\GarbageCollector.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\GCAssignment\GarbageCollector\bin\Debug\GarbageCollector.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\GCAssignment\GarbageCollector\bin\Debug\GarbageCollector.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\GCAssignment\GarbageCollector\obj\Debug\GarbageCollector.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\GCAssignment\GarbageCollector\obj\Debug\GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\GCAssignment\GarbageCollector\obj\Debug\GarbageCollector.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\GCAssignment\GarbageCollector\obj\Debug\GarbageCollector.pdb

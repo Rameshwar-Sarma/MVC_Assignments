@@ -1,0 +1,7 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment1\SubString\bin\Debug\SubString.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment1\SubString\bin\Debug\SubString.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment1\SubString\bin\Debug\SubString.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment1\SubString\obj\Debug\SubString.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment1\SubString\obj\Debug\SubString.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment1\SubString\obj\Debug\SubString.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment1\SubString\obj\Debug\SubString.pdb

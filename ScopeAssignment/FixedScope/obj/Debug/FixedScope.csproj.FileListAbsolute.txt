@@ -1,0 +1,7 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\FixedScope\obj\Debug\FixedScope.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\FixedScope\obj\Debug\FixedScope.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\FixedScope\bin\Debug\FixedScope.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\FixedScope\bin\Debug\FixedScope.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\FixedScope\bin\Debug\FixedScope.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\FixedScope\obj\Debug\FixedScope.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\FixedScope\obj\Debug\FixedScope.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\bin\Debug\CheckScope.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\bin\Debug\CheckScope.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\bin\Debug\CheckScope.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\bin\Debug\FixedScope.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\bin\Debug\FixedScope.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\bin\Debug\FixedScope.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\obj\Debug\CheckScope.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\obj\Debug\CheckScope.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\obj\Debug\CheckScope.csproj.CopyComplete
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\obj\Debug\CheckScope.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\ScopeAssignment\CheckScope\obj\Debug\CheckScope.pdb
