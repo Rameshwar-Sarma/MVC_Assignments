@@ -1,8 +1,0 @@
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FloatToBinary\bin\Debug\FloatToBinary.exe.config
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FloatToBinary\bin\Debug\FloatToBinary.exe
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FloatToBinary\bin\Debug\FloatToBinary.pdb
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FloatToBinary\obj\Debug\FloatToBinary.csproj.AssemblyReference.cache
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FloatToBinary\obj\Debug\FloatToBinary.csproj.SuggestedBindingRedirects.cache
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FloatToBinary\obj\Debug\FloatToBinary.csproj.CoreCompileInputs.cache
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FloatToBinary\obj\Debug\FloatToBinary.exe
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FloatToBinary\obj\Debug\FloatToBinary.pdb
