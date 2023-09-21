@@ -8,12 +8,11 @@ namespace DesignPattern
     /// </summary>
     public sealed class Singleton
     {
-        // a null instance created for Singleton
         public static Singleton singletonObj = null;
         bool _isAvailable;
 
         /// <summary>
-        /// the instance invoking the private constructor useing GetInstance Method
+        /// the instance invoking the private constructor using GetInstance Method
         /// </summary>
         /// <returns></returns>
         public static Singleton GetInstance()
@@ -30,15 +29,13 @@ namespace DesignPattern
         }
 
         /// <summary>
-        /// Private Constructor of Singleton class to Initialize the singletonObj
+        /// Private Constructor used to initialize the single object fields.
         /// </summary>
         /// <exception cref="Exception"></exception>
         Singleton()
         {
-            // Set up the room singletonObj
             this._isAvailable = true;
         }
-
         public void UsePattern()
         {
             if (this._isAvailable)

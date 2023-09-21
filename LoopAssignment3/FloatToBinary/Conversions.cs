@@ -2,14 +2,8 @@
 
 namespace FloatToBinary
 {
-    internal class Conversions
+    public class Conversions
     {
-        /// <summary>
-        /// this method return Final Float value to the Main method
-        /// </summary>
-        /// <param name="valueA"></param>
-        /// <param name="valueB"></param>
-        /// <returns></returns>
         public double FinalValue(float valueA, float valueB)
         {
             int NumericValueA = (int)valueA;
@@ -49,7 +43,6 @@ namespace FloatToBinary
                 }
                 integralPlaceValue *= 2;
             }
-
             double fractionalDecimal = 0;
             double fractionalPlaceValue = 0.5;
 

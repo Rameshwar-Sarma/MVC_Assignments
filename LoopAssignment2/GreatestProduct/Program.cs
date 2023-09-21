@@ -2,28 +2,25 @@
 
 namespace GreatestProduct
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             String Numbers;
-            int ProductIndex, MaxProduct = 1 ;
-
-            // input loop, until valid input is given 
+            int StartIndex, MaxProduct = 1 ;
             do
             {
                 Console.Write("Please enter atleast 4 digits :");
                 Numbers = Console.ReadLine();
             } while (Numbers.Length < 4);
 
-            Multiplication multiply = new Multiplication();
+            Multiplication multiplyObj = new Multiplication();
 
-            // finding the greatest Product
-            ProductIndex = multiply.FindIndex(Numbers, ref MaxProduct);
+            StartIndex = multiplyObj.FindIndex(Numbers, ref MaxProduct);
 
             Console.WriteLine("The Greatest Product of 4 multiples is :" +
-                               Numbers[ProductIndex] + " * " + Numbers[ProductIndex + 1] + " * " +
-                               Numbers[ProductIndex + 2] + " * " + Numbers[ProductIndex + 3] + " = " +
+                               Numbers[StartIndex] + " * " + Numbers[StartIndex + 1] + " * " +
+                               Numbers[StartIndex + 2] + " * " + Numbers[StartIndex + 3] + " = " +
                                MaxProduct);
             Console.ReadLine();
         }

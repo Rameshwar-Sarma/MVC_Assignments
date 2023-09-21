@@ -5,7 +5,7 @@ namespace SubString
     /// <summary>
     /// this Program intention is to find the positions of all the SubStrings in a Given String
     /// </summary>
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {

@@ -2,16 +2,8 @@
 
 namespace FloatToBinary
 {
-    internal class BinaryAddition
+    public class BinaryAddition
     {
-
-        /// <summary>
-        /// Adding the Binary values for the resultant binary value
-        /// </summary>
-        /// <param name="valueA"></param>
-        /// <param name="valueB"></param>
-        /// <param name="carry"></param>
-        /// <returns></returns>
         public String AddingBinaries(String valueA, String valueB, ref int carry)
         {
             String BinaryValue = "";

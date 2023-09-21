@@ -3,30 +3,24 @@
 namespace GreatestProduct
 {
     /// <summary>
-    /// This class aim is to find the greatest product of adjacent 4 numbers.
+    /// This class is to find the greatest product of adjacent 4 numbers.
     /// </summary>
-    internal class Multiplication
+    public class Multiplication
     {
-        /// <summary>
-        /// Finding the Index of the Greatest Product.
-        /// </summary>
-        /// <param name="numbers"></param>
-        /// <param name="MaxProduct"></param>
-        /// <returns></returns>
         public int FindIndex(String numbers, ref int MaxProduct)
         {
             int MaxProductIndex = 0;
-            for (int loop = 0; loop < numbers.Length -3; loop++)
+            for (int StartIndex = 0; StartIndex < numbers.Length -3; StartIndex++)
             {
                 int temp = 1;
-                for(int index = loop; index < loop +4; index++)
+                for(int loop = StartIndex; loop < StartIndex +4; loop++)
                 {
-                    temp *= Int32.Parse("" + numbers[index]);
+                    temp *= Int32.Parse("" + numbers[loop]);
                 }
                 if (MaxProduct < temp)
                 {
                     MaxProduct = temp;
-                    MaxProductIndex = loop;
+                    MaxProductIndex = StartIndex;
                 }
             }
             return MaxProductIndex;
