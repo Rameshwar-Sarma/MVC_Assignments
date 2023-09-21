@@ -1,8 +1,0 @@
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FindSubString\bin\Debug\FindSubString.exe.config
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FindSubString\bin\Debug\FindSubString.exe
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FindSubString\bin\Debug\FindSubString.pdb
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FindSubString\obj\Debug\SubString.csproj.AssemblyReference.cache
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FindSubString\obj\Debug\SubString.csproj.SuggestedBindingRedirects.cache
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FindSubString\obj\Debug\SubString.csproj.CoreCompileInputs.cache
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FindSubString\obj\Debug\FindSubString.exe
-C:\Users\Rameshwar Yellepeddi\source\repos\LoopsAssignment3\FindSubString\obj\Debug\FindSubString.pdb
