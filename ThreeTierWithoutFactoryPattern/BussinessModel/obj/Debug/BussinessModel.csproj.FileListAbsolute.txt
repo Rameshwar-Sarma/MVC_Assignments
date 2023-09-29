@@ -1,0 +1,8 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\BussinessModel\bin\Debug\BussinessModel.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\BussinessModel\bin\Debug\BussinessModel.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\BussinessModel\bin\Debug\BussinessModel.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\BussinessModel\obj\Debug\BussinessModel.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\BussinessModel\obj\Debug\BussinessModel.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\BussinessModel\obj\Debug\BussinessModel.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\BussinessModel\obj\Debug\BussinessModel.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\BussinessModel\bin\Debug\App.config
