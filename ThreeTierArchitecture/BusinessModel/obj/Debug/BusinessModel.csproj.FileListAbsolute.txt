@@ -1,6 +1,0 @@
-C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierArchitecture\BusinessModel\bin\Debug\BusinessModel.dll
-C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierArchitecture\BusinessModel\bin\Debug\BusinessModel.pdb
-C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierArchitecture\BusinessModel\obj\Debug\BusinessModel.csproj.AssemblyReference.cache
-C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierArchitecture\BusinessModel\obj\Debug\BusinessModel.csproj.CoreCompileInputs.cache
-C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierArchitecture\BusinessModel\obj\Debug\BusinessModel.dll
-C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierArchitecture\BusinessModel\obj\Debug\BusinessModel.pdb
