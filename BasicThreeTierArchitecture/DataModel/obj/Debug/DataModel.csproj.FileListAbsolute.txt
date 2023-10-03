@@ -1,0 +1,6 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\DataModel\bin\Debug\DataModel.dll
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\DataModel\obj\Debug\DataModel.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\DataModel\obj\Debug\DataModel.dll
+C:\Users\Rameshwar Yellepeddi\source\repos\ThreeTierWithoutFactoryPattern\DataModel\obj\Debug\DataModel.pdb
