@@ -84,18 +84,19 @@ namespace PresentationLayer
             BLLValidation bllValidObj = new BLLValidation();
             UserInformation userObj = new UserInformation();
 
-            Console.Write(Literals.EnterUserName);
+            
             userObj = inputObj.ReadUserName(userObj);
 
             if (bllValidObj.ExistUser(userObj))
-            {
-                Console.Write(Literals.EnterNewPassword);
+            {       
                 userObj = inputObj.ReadPassword(userObj);
-                Console.Write(Literals.ConfirmPassword);
                 userObj = inputObj.ReadConfirmPassword(userObj);
 
-                bllValidObj.ChangeUserPassword(userObj);
-                Console.WriteLine(Literals.PasswordChanged);
+                bool check = bllValidObj.ChangeUserPassword(userObj);
+                if(check)
+                {
+                    Console.WriteLine(Literals.PasswordChanged);
+                }
             }
             else
             {

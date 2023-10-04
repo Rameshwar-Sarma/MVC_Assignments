@@ -14,6 +14,7 @@ namespace BussinessLogicLayer
                 if (dataObj.HasUser(userInfoObj))
                 {
                     Console.WriteLine(Literals.AlreadyExists);
+                    return false;
                 }
                 if (dataObj.IsRegisteredMail(userInfoObj))
                 {

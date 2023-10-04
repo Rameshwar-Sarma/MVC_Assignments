@@ -31,14 +31,14 @@ namespace TestCases
         public void TestLogin()
         {
             //Arrange
-            BLLAuthentication authenticateObj = new BLLAuthentication();
+            BLLValidation validObj = new BLLValidation();
             UserInformation userObj = new UserInformation();
 
             userObj.UserName = "RameshwaraSarma";
             userObj.Password = "rameshwar24";
 
             //Act
-            bool actualValue = authenticateObj.LoginAuthentication(userObj);
+            bool actualValue = validObj.LoginUser(userObj);
 
             //Assert
             Assert.AreEqual(true, actualValue);

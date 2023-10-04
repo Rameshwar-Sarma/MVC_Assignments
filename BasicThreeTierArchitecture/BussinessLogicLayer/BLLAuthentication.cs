@@ -6,7 +6,7 @@ namespace BussinessLogicLayer
 {
     public class BLLAuthentication
     {
-        public bool NewUserInput(UserInformation userObj)
+        public bool RegisterAuthentication(UserInformation userObj)
         {
             BLLValidation validObj = new BLLValidation();
             Console.WriteLine();
@@ -15,17 +15,6 @@ namespace BussinessLogicLayer
             bool isValidEmail = ValidEmail(userObj);
             bool isValidConfirmPassword = ValidConfirmPassword(userObj);
             if (isValidUserName && isValidPassword && isValidEmail && isValidConfirmPassword)
-            {
-                return validObj.NewUser(userObj);
-            }
-            return false;
-        }
-        public bool Login(UserInformation userObj)
-        {
-            BLLValidation validObj = new BLLValidation();
-            bool isValidUserName = ValidUsername(userObj);
-            bool isValidPassword = ValidPassword(userObj);
-            if (isValidUserName && isValidPassword)
             {
                 return validObj.NewUser(userObj);
             }

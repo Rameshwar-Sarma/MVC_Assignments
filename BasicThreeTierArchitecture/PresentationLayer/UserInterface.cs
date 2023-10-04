@@ -32,7 +32,6 @@ namespace PresentationLayer
             }
             else
             {
-                Console.Clear();
                 Console.WriteLine(Literals.RegistrationFailed);
                 return 0;
             }
@@ -79,23 +78,23 @@ namespace PresentationLayer
         /// </summary>
         public void UserPasswordChange()
         {
-
             UserInput inputObj = new UserInput();
             BLLValidation bllValidObj = new BLLValidation();
             UserInformation userObj = new UserInformation();
 
-            Console.Write(Literals.EnterUserName);
             userObj = inputObj.ReadUserName(userObj);
 
             if (bllValidObj.ExistUser(userObj))
             {
-                Console.Write(Literals.EnterNewPassword);
                 userObj = inputObj.ReadPassword(userObj);
-                Console.Write(Literals.ConfirmPassword);
                 userObj = inputObj.ReadConfirmPassword(userObj);
 
-                bllValidObj.ChangeUserPassword(userObj);
-                Console.WriteLine(Literals.PasswordChanged);
+                bool res = bllValidObj.ChangeUserPassword(userObj);
+                if(res)
+                {
+                    Console.WriteLine(Literals.PasswordChanged);
+                }
+                
             }
             else
             {

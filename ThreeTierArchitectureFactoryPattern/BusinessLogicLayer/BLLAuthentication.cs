@@ -20,17 +20,6 @@ namespace BussinessLogicLayer
             }
             return false;
         }
-        public bool Login(UserInformation userObj)
-        {
-            BLLValidation validObj = new BLLValidation();
-            bool isValidUserName = ValidUsername(userObj);
-            bool isValidPassword = ValidPassword(userObj);
-            if (isValidUserName && isValidPassword)
-            {
-                return validObj.NewUser(userObj);
-            }
-            return false;
-        }
         public bool ValidUsername(UserInformation userInfoObj)
         {
             Regex userNameRgxObj = new Regex("^[A-Za-z][A-Za-z0-9_]{7,29}$");
