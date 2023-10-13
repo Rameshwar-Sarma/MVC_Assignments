@@ -21,10 +21,6 @@ namespace DesignPattern
             {
                 singletonObj = new Singleton();
             }
-            else
-            {
-                throw new Exception("This is Singleton Design Pattern");
-            }
             return singletonObj;
         }
 

@@ -10,13 +10,14 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-             Singleton singletonObj = Singleton.GetInstance();
+             Singleton singletonObjA = Singleton.GetInstance();
+             Singleton singletonObjB = Singleton.GetInstance();
 
-            singletonObj.UsePattern();
-            singletonObj.UsePattern();
-            singletonObj.ReleasePattern();
-            singletonObj.UsePattern();
-            singletonObj.ReleasePattern();
+            singletonObjA.UsePattern();
+            singletonObjB.UsePattern();
+            singletonObjA.ReleasePattern();
+            singletonObjB.UsePattern();
+            singletonObjA.ReleasePattern();
 
             Console.ReadLine();
         }

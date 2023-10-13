@@ -1,0 +1,7 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\AdapterAutoMapping\AdapterAutoMapping\bin\Debug\AdapterAutoMapping.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\AdapterAutoMapping\AdapterAutoMapping\bin\Debug\AdapterAutoMapping.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\AdapterAutoMapping\AdapterAutoMapping\bin\Debug\AdapterAutoMapping.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\AdapterAutoMapping\AdapterAutoMapping\obj\Debug\AdapterAutoMapping.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\AdapterAutoMapping\AdapterAutoMapping\obj\Debug\AdapterAutoMapping.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\AdapterAutoMapping\AdapterAutoMapping\obj\Debug\AdapterAutoMapping.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\AdapterAutoMapping\AdapterAutoMapping\obj\Debug\AdapterAutoMapping.pdb
