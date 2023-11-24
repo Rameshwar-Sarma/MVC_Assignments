@@ -1,0 +1,25 @@
+﻿@model OrdersWebApplication.ViewModels.OrdersByCustomer
+
+<html>
+    <head>
+        <title>CustomerOrders</title>
+    </head>
+    <body>
+       
+    @if(Model.CustomersList == null)
+    {
+        <h3>No Customers!!!</h3>
+    }
+    else
+    {
+        foreach(var kvp in Model.CustomersList)
+        {
+            <h3>The orders of cutomer of CustomerId : @kvp.Key</h3>
+            foreach(var orders in kvp.Value)
+            {
+                <h5> @orders.Id @orders.Name @orders.Location</h5>
+            }
+        }
+    }
+    </body>
+</html>
