@@ -1,0 +1,7 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\BuildPattern\BuildPattern\bin\Debug\BuildPattern.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\BuildPattern\BuildPattern\bin\Debug\BuildPattern.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\BuildPattern\BuildPattern\bin\Debug\BuildPattern.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\BuildPattern\BuildPattern\obj\Debug\BuildPattern.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\BuildPattern\BuildPattern\obj\Debug\BuildPattern.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\BuildPattern\BuildPattern\obj\Debug\BuildPattern.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\BuildPattern\BuildPattern\obj\Debug\BuildPattern.pdb

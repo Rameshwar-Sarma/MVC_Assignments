@@ -16,7 +16,7 @@ namespace DataAccessLayer
         public bool AddNewUser(UserInformation userInfoObj)
         {
             DataTable tableObj = ExecuteQuery($"Insert into Users values('{userInfoObj.UserName}','{userInfoObj.Password}','{userInfoObj.Email}');");
-            if(tableObj == null)
+            if (tableObj == null)
             {
                 return false;
             }

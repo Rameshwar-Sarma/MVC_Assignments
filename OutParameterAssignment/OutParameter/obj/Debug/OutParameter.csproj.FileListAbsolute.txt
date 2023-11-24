@@ -1,0 +1,7 @@
+C:\Users\Rameshwar Yellepeddi\source\repos\OutParameterAssignment\OutParameter\bin\Debug\OutParameter.exe.config
+C:\Users\Rameshwar Yellepeddi\source\repos\OutParameterAssignment\OutParameter\bin\Debug\OutParameter.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\OutParameterAssignment\OutParameter\bin\Debug\OutParameter.pdb
+C:\Users\Rameshwar Yellepeddi\source\repos\OutParameterAssignment\OutParameter\obj\Debug\OutParameter.csproj.AssemblyReference.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\OutParameterAssignment\OutParameter\obj\Debug\OutParameter.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar Yellepeddi\source\repos\OutParameterAssignment\OutParameter\obj\Debug\OutParameter.exe
+C:\Users\Rameshwar Yellepeddi\source\repos\OutParameterAssignment\OutParameter\obj\Debug\OutParameter.pdb
